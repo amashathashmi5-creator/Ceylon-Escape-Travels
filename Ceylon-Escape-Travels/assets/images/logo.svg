@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" fill="none">
+  <!-- Brand Icon Badge -->
+  <g transform="translate(6, 6)">
+    <!-- Shield / Seal Rounded Background -->
+    <rect x="0" y="0" width="48" height="48" rx="14" fill="url(#logoGrad)" />
+    <!-- Rising Sun / Tropical Glow -->
+    <circle cx="24" cy="20" r="10" fill="#facc15" opacity="0.9" />
+    <path d="M24 6v4M24 30v4M14 20h-4M38 20h-4M17 13l-3-3M31 27l-3-3M17 27l-3 3M31 13l3-3" stroke="#fef08a" stroke-width="1.8" stroke-linecap="round" />
+    <!-- Tropical Palm Fronds -->
+    <path d="M24 38c0-8 6-12 12-13" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M24 38c-2-9-10-11-14-10" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M24 38c-1-6 2-15 7-18" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round"/>
+    <!-- Ocean Wave Curve -->
+    <path d="M6 38c4-2 9-2 13 0 4 2 9 2 13 0 4-2 8-1 10 0" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M9 42c4-1.5 7-1.5 11 0 4 1.5 8 1.5 12 0 4-1.5 7-1 9 0" stroke="#e0f2fe" stroke-width="1.8" stroke-linecap="round" opacity="0.8"/>
+  </g>
+
+  <!-- Typography -->
+  <text x="64" y="27" font-family="'Plus Jakarta Sans', 'Inter', -apple-system, sans-serif" font-size="18" font-weight="800" letter-spacing="1.5" fill="#0c2b44">CEYLON<tspan fill="#0d9488"> ESCAPE</tspan></text>
+  <text x="65" y="44" font-family="'Outfit', 'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="600" letter-spacing="3.5" fill="#e07a5f">TRAVELS &bull; SRI LANKA</text>
+
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="logoGrad" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0891b2" />
+      <stop offset="50%" stop-color="#0d9488" />
+      <stop offset="100%" stop-color="#0c2b44" />
+    </linearGradient>
+  </defs>
+</svg>
